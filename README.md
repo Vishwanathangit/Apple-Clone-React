@@ -89,6 +89,6 @@ Learned to structure a React project for scalability and maintainability.
 
 Feel free to fork this repository, create a feature branch, and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
-GitHub Repo : []
+GitHub Repo : [https://github.com/Vishwanathangit/Apple-Clone-React.git]
 
 LiveDemo : []
